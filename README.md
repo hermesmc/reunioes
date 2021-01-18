@@ -1,6 +1,6 @@
 # reunioes
 
-Marcando reuiniões
+Marcando reuniões
 
 - Certifique-se que assuntos do dia a dia sejam resolvidos no dia a dia;
 - Avisar previamente o objetivo da reunião;
