@@ -24,4 +24,4 @@ Planejamento
 - Reservar uma sala;
 - Invite com o tema da reunião.
 
-Como tornar as reuniões mais produtivas
+Como tornar as reuniões mais produtivas: https://blog.contaazul.com/reunioes-produtivas
